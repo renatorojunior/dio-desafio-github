@@ -1,0 +1,3 @@
+Link para Download do GIT Bash: https://git-scm.com/downloads
+
+O Git Bash é o aplicativo que oferece a camada de emulação para a experiência de linha de comando Git.
